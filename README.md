@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Quantum Computational Complexity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yifan1207](https://github.com/yifan1207)
+- 👨‍💻 All of my research projects are available at [Google Scholar](https://scholar.google.com/citations?user=tUNPDm8AAAAJ))
 
 - 💬 Ask me about **Quantum Research, Engineering Projects**
 
