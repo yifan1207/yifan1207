@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yifan</h1>
-<h3 align="center">A passionate researcher,engineer, and developer from Hong Kong</h3>
+<h3 align="center">A passionate researcher, engineer, and developer from Hong Kong</h3>
 
 - 🔭 I’m currently working on [Quantum-Based Machine Learning Simulation for Drug R&D](https://github.com/yifan1207/Quantum-Based-Machine-Learning-Simulation)
 
 - 🌱 I’m currently learning **Quantum Computational Complexity**
 
-- 👨‍💻 All of my research projects are available at [Google Scholar](https://scholar.google.com/citations?user=tUNPDm8AAAAJ))
+- 👨‍💻 All of my research projects are available at [Google Scholar](https://scholar.google.com/citations?user=tUNPDm8AAAAJ)
 
 - 💬 Ask me about **Quantum Research, Engineering Projects**
 
