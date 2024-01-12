@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yifan Zhou</h1>
+<h1 align="center">Hi 👋, I'm Yifan</h1>
 <h3 align="center">A passionate researcher,engineer, and developer from Hong Kong</h3>
 
 - 🔭 I’m currently working on [Quantum-Based Machine Learning Simulation for Drug R&D](https://github.com/yifan1207/Quantum-Based-Machine-Learning-Simulation)
