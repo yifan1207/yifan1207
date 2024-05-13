@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yifan</h1>
-<h3 align="center">A passionate researcher, engineer, and developer from Guangzhou</h3>
+<h3 align="center">A researcher, engineer, and developer from Guangzhou</h3>
 
 - 🔭 I’m currently working on [Quantum-Based Machine Learning Simulation for Drug R&D](https://github.com/yifan1207/Quantum-Based-Machine-Learning-Simulation)
 
