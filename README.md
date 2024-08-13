@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Quantum Research, Engineering Projects**
 
-- 📫 How to reach me **yifan.zhou11882-bigz@basischina.com**
+- 📫 How to reach me **yifanz1207@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
