@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yifan</h1>
-<h3 align="center">A researcher, engineer, and developer from Guangzhou</h3>
+<h3 align="center">A researcher, engineer, and developer at UCLA</h3>
 
 - 🔭 I’m currently working on [Quantum-Based Machine Learning Simulation for Drug R&D](https://github.com/yifan1207/Quantum-Based-Machine-Learning-Simulation)
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Quantum Research, Engineering Projects**
 
-- 📫 How to reach me **yifanz1207@gmail.com**
+- 📫 How to reach me **yzhou05@ucla.edu**
 
 - ⚡ Fun fact **I think I am funny**
 
