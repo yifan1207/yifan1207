@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my research projects are available at [Google Scholar](https://scholar.google.com/citations?user=tUNPDm8AAAAJ)
 
-- 💬 Ask me about **Quantum Research, Engineering Projects**
+- 💬 Ask me about **Quantum Research, CS Projects**
 
 - 📫 How to reach me **yzhou05@ucla.edu**
 
