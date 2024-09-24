@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yifan</h1>
 <h3 align="center">A researcher, engineer, and developer at UCLA</h3>
 
-- 🔭 I’m currently working on [Quantum-Based Machine Learning Simulation for Drug R&D](https://github.com/yifan1207/Quantum-Based-Machine-Learning-Simulation)
-
-- 🌱 I’m currently learning **Quantum Computational Complexity**
+- 🔭 I’m currently working on Machine Learning and Quantum Computing
 
 - 👨‍💻 All of my research projects are available at [Google Scholar](https://scholar.google.com/citations?user=tUNPDm8AAAAJ)
 
-- 💬 Ask me about **Quantum Research, CS Projects**
+- 💬 Ask me about **Machine Learning, Quantum Research, Personal Projects**
 
 - 📫 How to reach me **yzhou05@ucla.edu**
 
