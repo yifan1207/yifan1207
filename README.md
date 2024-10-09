@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yifan</h1>
-<h3 align="center">A researcher, engineer, and developer at UCLA</h3> 
+<h3 align="center">A researcher, engineer, and developer at UCLA</h3>  
   
 - 🔭 I’m currently working on Machine Learning and Quantum Computing  
  
